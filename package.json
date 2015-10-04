@@ -1,0 +1,19 @@
+{
+  "name": "censorify",
+  "version": "0.1.1",
+  "description": "Censor words out of text",
+  "main": "censortext",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "censorify"
+  },
+  "author": "Philip Stoll",
+  "license": "ISC",
+    "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
+}
